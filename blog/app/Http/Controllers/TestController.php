@@ -8,6 +8,7 @@ class TestController extends Controller
 {
 	public function index()
 	{
-		echo 'lcl'
+		echo 'lcl';
+		echo 'wangfan';
 	}
 }
